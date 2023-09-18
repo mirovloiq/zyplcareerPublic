@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyreadstat
+catboost
+sklearn
+openpyxl
